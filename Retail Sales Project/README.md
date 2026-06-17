@@ -30,7 +30,7 @@ This project analyzes and forecasts monthly retail sales using Python. It involv
 
 ## 📁 Files
 
-* `[Retail Sales Project.ipynb](https://github.com/MercyBundi/Python/blob/64a9e124b2d74d0dc996527e429c889ec5f3972e/Retail%20Sales%20Project/Retail%20Sales%20Project.ipynb)` – Complete Jupyter notebook with analysis and model.
+* [Retail Sales Project.ipynb](https://github.com/MercyBundi/Python/blob/64a9e124b2d74d0dc996527e429c889ec5f3972e/Retail%20Sales%20Project/Retail%20Sales%20Project.ipynb) – Complete Jupyter notebook with analysis and model.
 * `README.md` – Project documentation (this file).
 
 ## 🚀 How to Run
