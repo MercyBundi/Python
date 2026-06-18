@@ -77,5 +77,7 @@ Through these exercises, I developed practical experience in:
 
 ## Files
 
-* `Customer Call List Cleaning.ipynb`
-* `Exploratory Data Analysis in Pandas.ipynb`
+* `Customer Call List Cleaning in Pandas.ipynb` [file link](https://github.com/MercyBundi/Python/blob/main/Practice%20Project%20using%20Pandas/Customer%20Call%20List%20Cleaning%20in%20Pandas.ipynb) : the jupyter notebook with cleaning analysis
+* `World Population Exploratory Analysis in Pandas.ipynb` [file link](https://github.com/MercyBundi/Python/blob/main/Practice%20Project%20using%20Pandas/World%20Population%20Exploratory%20Analysis%20in%20Pandas.ipynb) : the jypyter notebook with the exploratory data analysis
+* `Customer Call List.xlsx` : the dataset used in cleaning analysis
+* `world_population.csv` : the dataset used in exploratory data analysis
